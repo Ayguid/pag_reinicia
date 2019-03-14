@@ -561,26 +561,24 @@
             Hace una donación de mil pesos.
           </p>
           <a mp-mode="dftl" href="https://www.mercadopago.com/mla/checkout/start?pref_id=376548761-44693111-687e-4571-981d-c94b676a426a" name="MP-payButton" class='btn btn-primary w-100 mb-2'>Donar $1000.</a>
-          <!-- <a mp-mode="dftl" href="https://www.mercadopago.com/mla/checkout/start?pref_id=376548761-44693111-687e-4571-981d-c94b676a426a" name="MP-payButton" class='btn btn-primary w-100 mb-2'>Donar $1000</a> -->
+          <br>
+          <p>
+            Hace una donación de dos mil quinientos pesos.
+          </p>
+
+          <a mp-mode="dftl" href="https://www.mercadopago.com.ar/checkout/v1/redirect?preference-id=376548761-a6311313-14e0-4f4a-a720-194728e62203" name="MP-payButton" class='btn btn-primary w-100 mb-2'>Donar $2500. </a>
+          <br>
+          <p>
+            Hace una donación de cinco mil pesos.
+          </p>
+          <a mp-mode="dftl" href="https://www.mercadopago.com.ar/checkout/v1/redirect?preference-id=376548761-f4032e79-60e6-4135-8b13-9823a3ae5486" name="MP-payButton" class='btn btn-primary w-100 mb-2'>Donar $5000.</a>
           <br>
           <p>
             Subscribite para donar el monto que vos quieras todos los meses.
           </p>
           <a mp-mode="dftl" href="https://mpago.la/2iq7hz" name="MP-payButton" class='btn btn-primary w-100'>Donación Mensual</a>
-
-          <!-- <a target="_blank" href="http://mpago.la/1qQbNx" class='btn btn-primary w-100'>Donación Mensual</a> -->
         </div>
-        <!-- <div class="pricing-list">
-        <ul>
-        <li><i class="lni-check-mark-circle"></i><span class="text">Entrance</span></li>
-        <li><i class="lni-check-mark-circle"></i><span class="text">Coffee Break</span></li>
-        <li><i class="lni-close"></i><span class="text">Lunch on all days</span></li>
-        <li><i class="lni-check-mark-circle"></i><span class="text">Access to all areas</span></li>
-        <li><i class="lni-check-mark-circle"></i><span class="text">Certificate</span></li>
-        <li><i class="lni-close"></i><span class="text">Workshop</span></li>
-      </ul>
-    </div> -->
-    <!-- <a href="#" class="btn btn-common">Buy Ticket</a> -->
+
   </div>
 
 
@@ -621,7 +619,34 @@
       </div>
 
     </div>
+
   </div>
+
+
+
+
+  <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 mb-3">
+    <div class="price-block-wrapper wow fadeInRight" data-wow-delay="0.4s">
+      <div class="colmun-title">
+        <h5>Cena Beneficio</h5>
+      </div>
+      <div class="about-item team-item backPink">
+        <div class="about-text text-white">
+
+          <!-- <img alt="No hay descripción de la foto disponible." class="FFVAD" decoding="auto" sizes="" width="100%" srcset="https://instagram.faep8-2.fna.fbcdn.net/vp/37918e8f65dea87d314aba44249af047/5D0CFD2F/t51.2885-15/sh0.08/e35/p640x640/52845404_2175203192522941_7716261928097557079_n.jpg?_nc_ht=instagram.faep8-2.fna.fbcdn.net 640w,https://instagram.faep8-2.fna.fbcdn.net/vp/829d6b706194a0745e4ebb5676755545/5D0A80EB/t51.2885-15/sh0.08/e35/p750x750/52845404_2175203192522941_7716261928097557079_n.jpg?_nc_ht=instagram.faep8-2.fna.fbcdn.net 750w,https://instagram.faep8-2.fna.fbcdn.net/vp/06db76dfb7f3f747c6681f8b3213b8a9/5D032D45/t51.2885-15/e35/52845404_2175203192522941_7716261928097557079_n.jpg?_nc_ht=instagram.faep8-2.fna.fbcdn.net 1080w" src="https://instagram.faep8-2.fna.fbcdn.net/vp/06db76dfb7f3f747c6681f8b3213b8a9/5D032D45/t51.2885-15/e35/52845404_2175203192522941_7716261928097557079_n.jpg?_nc_ht=instagram.faep8-2.fna.fbcdn.net" style="object-fit: cover;"> -->
+          <img width="100%" src="assets/cena1.jpg" alt="">
+          <a mp-mode="dftl" href="https://www.mercadopago.com.ar/checkout/v1/redirect?preference-id=376548761-9c29ef5e-cf3a-4a7c-8111-4a65419b042b" name="MP-payButton" class='btn btn-primary w-100 mb-2'>Cena para una persona  -  $2500</a>
+          <br>
+
+          <a mp-mode="dftl" href="https://www.mercadopago.com.ar/checkout/v1/redirect?preference-id=376548761-47465b93-e1d1-4f82-a72e-f83c61e58dc2" name="MP-payButton" class='btn btn-primary w-100 mb-2'>Cena para dos personas  -  $5000</a>
+        </div>
+  </div>
+</div>
+</div>
+
+
+
+
 
 </div>
 </div>
