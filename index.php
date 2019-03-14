@@ -635,6 +635,13 @@
 
           <!-- <img alt="No hay descripción de la foto disponible." class="FFVAD" decoding="auto" sizes="" width="100%" srcset="https://instagram.faep8-2.fna.fbcdn.net/vp/37918e8f65dea87d314aba44249af047/5D0CFD2F/t51.2885-15/sh0.08/e35/p640x640/52845404_2175203192522941_7716261928097557079_n.jpg?_nc_ht=instagram.faep8-2.fna.fbcdn.net 640w,https://instagram.faep8-2.fna.fbcdn.net/vp/829d6b706194a0745e4ebb5676755545/5D0A80EB/t51.2885-15/sh0.08/e35/p750x750/52845404_2175203192522941_7716261928097557079_n.jpg?_nc_ht=instagram.faep8-2.fna.fbcdn.net 750w,https://instagram.faep8-2.fna.fbcdn.net/vp/06db76dfb7f3f747c6681f8b3213b8a9/5D032D45/t51.2885-15/e35/52845404_2175203192522941_7716261928097557079_n.jpg?_nc_ht=instagram.faep8-2.fna.fbcdn.net 1080w" src="https://instagram.faep8-2.fna.fbcdn.net/vp/06db76dfb7f3f747c6681f8b3213b8a9/5D032D45/t51.2885-15/e35/52845404_2175203192522941_7716261928097557079_n.jpg?_nc_ht=instagram.faep8-2.fna.fbcdn.net" style="object-fit: cover;"> -->
           <img width="100%" src="assets/cena1.jpg" alt="">
+          <br>
+          <hr>
+          <p>
+            Compra tu entrada.
+          </p>
+          <hr>
+
           <a mp-mode="dftl" href="https://www.mercadopago.com.ar/checkout/v1/redirect?preference-id=376548761-9c29ef5e-cf3a-4a7c-8111-4a65419b042b" name="MP-payButton" class='btn btn-primary w-100 mb-2'>Cena para una persona  -  $2500</a>
           <br>
 
